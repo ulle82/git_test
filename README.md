@@ -1,0 +1,1 @@
+This is Ulrik's first Git project
